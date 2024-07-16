@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-15T21:08:36 ICT" name="Default suite" finished-at="2024-07-15T21:10:35 ICT" duration-ms="118870">
+    <groups>
+    </groups>
+    <test started-at="2024-07-15T21:08:36 ICT" name="Default test" finished-at="2024-07-15T21:10:35 ICT" duration-ms="118870">
+      <class name="com.tiki.product.Product_01_New_Product">
+        <test-method signature="TC_01_Chrome()[pri:0, instance:com.tiki.product.Product_01_New_Product@67c27493]" started-at="2024-07-15T21:08:36 ICT" name="TC_01_Chrome" finished-at="2024-07-15T21:08:43 ICT" duration-ms="6914" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_01_Chrome -->
+        <test-method signature="TC_01_Edge()[pri:0, instance:com.tiki.product.Product_01_New_Product@67c27493]" started-at="2024-07-15T21:08:43 ICT" name="TC_01_Edge" finished-at="2024-07-15T21:10:35 ICT" duration-ms="111917" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_01_Edge -->
+      </class> <!-- com.tiki.product.Product_01_New_Product -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
